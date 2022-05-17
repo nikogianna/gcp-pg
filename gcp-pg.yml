@@ -1,7 +1,7 @@
 apiVersion: database.example.org/v1alpha1
 kind: PostgreSQLInstance
 metadata:
-  name: my-db4
+  name: my-db41
   #generateName: db-name-
   namespace: default
 spec:
